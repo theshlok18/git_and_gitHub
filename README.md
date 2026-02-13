@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 1. What is Git?
+## 🧠 1. What is Git?.
 
 **Git** is a **distributed version control system** used to track changes in source code during software development. It allows multiple developers to work together on a project without overwriting each other’s work.
 
